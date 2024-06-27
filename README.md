@@ -74,7 +74,7 @@ To get started with the GitHub in VS Code, you’ll need to install Git, create 
 Once you’ve installed the GitHub Pull Requests and Issues extension, you’ll need to sign in. Follow the prompts to authenticate with GitHub in the browser and return to VS Code.
 
 
-sources used: geeks for geeks, vs code website, meduim, learn microsoft
+sources used: geeks for geeks, vs code website, meduim, learn microsoft.
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
